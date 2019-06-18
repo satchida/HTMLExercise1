@@ -1,0 +1,14 @@
+div{
+	width:500px;
+	margin:auto;
+}
+blockquote
+{
+	text-align: center;
+	border-style: inset;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+body{
+	background-color: lightgray;
+}
